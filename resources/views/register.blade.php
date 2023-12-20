@@ -2,8 +2,8 @@
 
 @extends('layouts.app')
 
-@section('index')
+@section('register')
 
-<h1>Index</h1>
+<h1>Register</h1>
 
 @endsection

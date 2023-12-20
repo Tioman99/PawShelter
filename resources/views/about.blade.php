@@ -2,8 +2,7 @@
 
 @extends('layouts.app')
 
-@section('index')
-
-<h1>Index</h1>
+@section('about')
+<h1>About</h1>
 
 @endsection
